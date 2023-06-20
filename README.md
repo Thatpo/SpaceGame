@@ -1,1 +1,2 @@
 # SpaceGame
+Javascript, CSS, HTML
